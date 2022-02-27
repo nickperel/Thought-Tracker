@@ -31,5 +31,4 @@ const ReactionSchema = new Schema(
   );
 
   
-// export the Pizza model
 module.exports = ReactionSchema;
