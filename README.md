@@ -12,13 +12,19 @@
   * [Contributing](#contributing)
   * [License Info](#license-info)
 
+  ## Walkthrough Videos
+
+  * Part 1: https://drive.google.com/file/d/1sxjbE94i-hye2VD5JQjyaNGJ3ORldjTA/view
+  * Part 2: https://drive.google.com/file/d/1MTmaKelFg4ny6KBNJGfaY40bLllgf6gI/view
+  * Part 3: https://drive.google.com/file/d/1TNoOhWqL06nnJLnu-VavZTvYvuxy1TR8/view
+
   ### Installation
   
   * Just clone the repository and then run "npm i" from the command line to install all required dependencies for this application.
 
   ### Usage
 
-  * After cloning the repository and installing all dependencies, just head over to Insomnia where all of the routes can be tested for their functionality. Just ensure to change the routes' URLs depending on which action you are attempting to execute.
+  * After cloning the repository and installing all dependencies, run "npm start" from the command line and then head over to Insomnia where all of the routes can be tested for their functionality. Just ensure to change the routes' URLs depending on which action you are attempting to execute.
 
   ### License Info
   * [MIT License](https://opensource.org/licenses/MIT)
